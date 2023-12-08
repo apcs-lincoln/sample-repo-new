@@ -10,7 +10,7 @@ h1 {
 
 /* never clicked (visited) link */
 a {
-  color: white
+  color: rgb(100, 15, 15)
 }
 
 /* clicked (visited) link */
